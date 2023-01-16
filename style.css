@@ -1,6 +1,6 @@
 html {
     
-    background-color:black;
+   
     
 }
 
@@ -17,6 +17,13 @@ body {
     line-height: 1.5;
     padding: 2em 2em 4em;
     
+}
+
+.parallax-image {
+  background: url("https://user-images.githubusercontent.com/121771999/212746784-908ad017-cc97-4782-a939-0014044e1bf9.png");
+  min-height: 600px;
+  background-size: cover;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
