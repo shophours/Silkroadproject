@@ -5,8 +5,7 @@ html {
 }
 
 head {
-width:25%;
-text-align:center; 
+
     
     
 }
@@ -19,6 +18,7 @@ body {
 .parallax-image {
   background: url("https://user-images.githubusercontent.com/121771999/212746784-908ad017-cc97-4782-a939-0014044e1bf9.png");
   min-height: 600px;
+  background-size: auto 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
